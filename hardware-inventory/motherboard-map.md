@@ -33,4 +33,4 @@ The PC was powered off and unplugged before inspection. I visually inspected the
 
 ### Photo Evidence
 
-![Rear I/O Ports - Labelled](photos/rear-io-ports.jpg)
+![Rear I/O Ports - Labelled](rear-io-ports.jpg)
