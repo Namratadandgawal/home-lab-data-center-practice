@@ -27,7 +27,7 @@ Identified:
 - DVD/optical drive cover
 - Zebronics case branding
 
-![PC Front - Labelled](images/pc_front_labelled.png)
+![PC Front - Labelled](pc_front_labelled.png)
 
 ### Rear of the PC
 
@@ -42,7 +42,7 @@ Identified:
 - Rear audio jacks
 - PCIe expansion slots
 
-![PC Back - Labelled](images/pc_back_labelled.png)
+![PC Back - Labelled](pc_back_labelled.png)
 
 ### External Inspection Notes
 
