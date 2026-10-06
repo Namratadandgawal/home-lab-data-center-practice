@@ -80,7 +80,7 @@ for visual inspection.
 - SATA power cables
 - PCIe expansion slots
 
-![Internal Hardware - Labelled](images/pc_components_labelled.png)
+![PC Front - Labelled](pc_front_labelled.png)
 
 ### Internal Inspection Notes
 
